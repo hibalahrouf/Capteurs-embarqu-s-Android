@@ -17,7 +17,7 @@ Le projet démontre l’utilisation de nombreux capteurs Android ainsi qu’une 
 
 # Demonstration
 
-https://github.com/user-attachments/assets/cd7de3a6-0a7e-42e0-b611-a1f3db0b9417
+https://github.com/user-attachments/assets/440b3369-011c-4fdf-84b4-ef2cf2f0cf90
 
 ---
 
