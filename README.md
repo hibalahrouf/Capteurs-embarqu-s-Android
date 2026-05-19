@@ -15,6 +15,12 @@ Le projet démontre l’utilisation de nombreux capteurs Android ainsi qu’une 
 
 ---
 
+# Demonstration
+
+https://github.com/user-attachments/assets/cd7de3a6-0a7e-42e0-b611-a1f3db0b9417
+
+---
+
 # Package de l’application
 
 ```java
@@ -427,9 +433,7 @@ Permet de simuler :
 - proximité
 - autres capteurs supportés
 
----
 
-# Demonstration
 
 ---
 
