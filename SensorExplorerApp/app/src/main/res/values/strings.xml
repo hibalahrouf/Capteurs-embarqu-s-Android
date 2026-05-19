@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorExplorerApp</string>
+    <string name="screen_sensors">Sensors</string>
+    <string name="screen_temperature">Temperature</string>
+    <string name="screen_humidity">Humidity</string>
+    <string name="screen_proximity">Proximity</string>
+    <string name="screen_magnetic">Magnetic Field</string>
+    <string name="screen_accelerometer">Accelerometer</string>
+    <string name="screen_gravity">Gravity</string>
+    <string name="screen_gyroscope">Gyroscope</string>
+    <string name="screen_steps">Steps</string>
+    <string name="screen_compass">Compass</string>
+    <string name="screen_activity">Activity</string>
+</resources>
